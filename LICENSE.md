@@ -1,4 +1,4 @@
-
+VyprVPN instant Utility: OpenVPN-support & no-logs-policy offers the most advanced VyprVPN utility, with OpenVPN-support and no-logs-policy. Ideal for users who value privacy and
 
 
 
